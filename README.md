@@ -2,11 +2,11 @@
 
 An external offset/interfaces dumper for Counter-Strike 2, written in Rust.
 
-*Note:* New commits are being pushed regularly to the [dev](https://github.com/a2x/cs2-dumper/tree/dev) branch.
+*Note:* Original and modern one -> https://github.com/a2x/cs2-dumper
 
 # Usage
 
-You can either download the latest release from [Releases](https://github.com/a2x/cs2-dumper/releases) or build it yourself. Note that building it yourself requires Rust's nightly toolchain.
+You can either download the latest release from realeases or build it yourself. Note that building it yourself requires Rust's nightly toolchain.
 
 If you want to see more detailed runtime messages, you can pass the `--verbose` flag.
 
